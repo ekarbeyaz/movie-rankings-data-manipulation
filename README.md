@@ -16,3 +16,4 @@ The dataset includes recall information related to specific NHTSA campaigns. The
 
 ## Table of Contents
 1. Data Cleaning and Manipulation
+2. Total Count of Each Rating Value
