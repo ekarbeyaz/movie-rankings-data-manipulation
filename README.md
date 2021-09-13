@@ -17,3 +17,6 @@ The dataset includes recall information related to specific NHTSA campaigns. The
 ## Table of Contents
 1. Data Cleaning and Manipulation
 2. Total Count of Each Rating Value
+3. Which Genres Get Better Ratings
+4. Rating Count by Each Year
+5. Which Tags Used Most
